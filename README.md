@@ -1,0 +1,4 @@
+myconfig
+========
+
+store my configurations
