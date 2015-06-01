@@ -1,13 +1,24 @@
 myconfig
 ========
 
-store my configurations
-including
+store . configurations
+may include:
 
+common{{
 .vimrc
-screenrc
+.screenrc
 .bashrc
-customized apt source list
+.profile
 .zshrc
-~/.ssh/config
+.ssh/config
 /etc/hosts
+
+...
+}}
+
+
+ubuntu{{
+apt source list
+
+...
+}}
